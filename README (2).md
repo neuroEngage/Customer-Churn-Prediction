@@ -47,7 +47,8 @@ ry_screenshot.png" alt="Churn Analysis — Summary Page" width="800"/>
 
 <p align="![Churn_Analysis - Prediction Pafe](https://github.com/user-attachments/assets/c48f3532-520d-47b9-8900-9339e2e74716)
 center">
-  <img src="images/prediction_screenshot.![Screenshot 2025-05-04 133552](https://github.com/user-attachments/assets/ac90398b-ff1c-4bc4-bf27-fd40d483a440)
+  <img src="images/predic![Churn_Analysis - Prediction Pafe](https://github.com/user-attachments/assets/f9337f02-de49-40fe-95a7-c9022136411f)
+tion_screenshot.![Screenshot 2025-05-04 133552](https://github.com/user-attachments/assets/ac90398b-ff1c-4bc4-bf27-fd40d483a440)
 png" alt="Churn Analysis — Prediction Page" width="800"/>
 </p>
 
