@@ -34,8 +34,10 @@ A full‑stack analytics solution that **extracts**, **models**, and **visualize
 
 ## 📊 Power BI Dashboard Highlights
 
-<p align="center">
-  <img src="images/summary_screenshot.png" alt="Churn Analysis — Summary Page" width="800"/>
+<p align="center">![Screenshot 2025-05-04 133541](https://github.com/user-attachments/assets/5a04f8ca-7a2f-4979-9633-70ca697843e1)
+
+  <img src="images/summa![Screenshot 2025-05-04 133541](https://github.com/user-attachments/assets/edeaf492-38e4-41cd-a42a-e4192905a90c)
+ry_screenshot.png" alt="Churn Analysis — Summary Page" width="800"/>
 </p>
 
 > **Summary Page**  
@@ -44,7 +46,8 @@ A full‑stack analytics solution that **extracts**, **models**, and **visualize
 > • Top‑5 states by churn rate • Service‑level churn grid with heat bars  
 
 <p align="center">
-  <img src="images/prediction_screenshot.png" alt="Churn Analysis — Prediction Page" width="800"/>
+  <img src="images/prediction_screenshot.![Screenshot 2025-05-04 133552](https://github.com/user-attachments/assets/ac90398b-ff1c-4bc4-bf27-fd40d483a440)
+png" alt="Churn Analysis — Prediction Page" width="800"/>
 </p>
 
 > **Prediction Page**  
@@ -159,13 +162,6 @@ customer-churn-prediction/
 
 ---
 
-## ⭐ Why Recruiters Will Love It
 
-- **End‑to‑end delivery**: From raw data ingestion to ML‑powered dashboards  
-- **Cross‑functional skills**: SQL, Power BI, Python, Data Modeling, Storytelling  
-- **Business impact**: Actionable segmentation & retention strategies  
-- **Best practices**: Modular code, parameterized measures, version control  
-
----
 
 Feel free to explore, fork, and submit issues. Let’s turn insights into retention!  
